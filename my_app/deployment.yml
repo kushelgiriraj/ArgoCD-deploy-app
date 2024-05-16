@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: kgiriraj/nginx:0.2.0
+        image: kgiriraj/nginx:v0.2.0
         ports:
         - containerPort: 80
