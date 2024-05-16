@@ -1,6 +1,6 @@
 apiVersion: apps/v1
 kind: Deployment
-metadat:
+metadata:
   name: my_app
   namespace: prod
 spec:
